@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "live-diary",
+	"name": "Live Diary",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Captures your editing steps to generate a synced video timelapse.",
+	"author": "Tersordo",
+	"authorUrl": "https://github.com/tersordo",
+	"fundingUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
 	"isDesktopOnly": false
 }
